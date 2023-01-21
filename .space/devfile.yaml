@@ -4,7 +4,3 @@ attributes:
     instanceType: regular
     editor:
       type: Idea
-components:
-- name: dev-contianer
-  container:
-    image: openjdk-11:latest
